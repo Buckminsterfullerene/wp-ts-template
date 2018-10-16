@@ -59,3 +59,14 @@ typings/
 
 # next.js build output
 .next
+
+.idea
+node_modules
+src/**/*.js
+src/**/*.js.map
+typings
+dist
+coverage
+ts-out
+npm-debug.log
+debug.log
